@@ -1,0 +1,23 @@
+---
+title: FPV Thinker
+description:Thinker is a new device from openIPC It has no WiFi, so users an select which one they want to use  .
+---
+
+### 1. Overview
+
+### 2. Main features
+
+| **Section**        | **Thinker**            | **Thinker Mini**                     | **Thinker dev ( limited batch)r**              |
+|--------------------|------------------------|--------------------------------------|-----------------------------------|
+| **Processor**       | SSC338Q               | SSC338Q   |  imu./SSC378Q  |
+| **Board size**      | 25x25mm               | `src/content/docs/use-cases/`        | Autogenerate enabled              |
+| **Power Supply**     |2-6s                  |2-6s          | Autogenerate enabled              |
+| **Sensor**          | IMX335        | IMX335          |IMX 415          |
+| **BEC**     | 3A  | 3A      | 3A     |
+| **Connection**       | 200mm cable for ethernet to RJ45|    200mm cable for ethernet to RJ45    |  200mm cable for ethernet to RJ45 |
+| **MIPI length**       |200mm  |     200mm     |    200mm          |
+| **UARTS**       |3  | 3       | 3          |
+| **SD Card**       |Yes  | No       | Yes         |
+| **Built In WifI card**       | No | RTL8731BU       |          |
+
+### 3. Photos
